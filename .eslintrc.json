@@ -27,4 +27,4 @@
       "no-redeclare": ["error", { "builtinGlobals": true }],
       "eol-last": "error"
     }
-  
+  }
