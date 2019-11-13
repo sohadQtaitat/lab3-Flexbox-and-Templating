@@ -1,0 +1,32 @@
+
+  
+  img {
+    max-width: 100%;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px auto;
+  }
+  
+
+  
+ 
+  
+  div {
+
+    box-shadow: 0 10px 6px -6px #777;
+    border: 2px inset lightGray;
+    padding: 20px;
+    width: 320px;
+    height: 400px;
+    margin: 50px;
+    background-color: bisque;
+  }
+  
